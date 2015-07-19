@@ -6,5 +6,7 @@ int main(int argc, char* argv[]) {
 	for(i = 0; i < 100; ++)
 		j += i;
 	printf("1...100 sum is \n", j);
+	printf("aaaaaaaa\n");
 	return 0;
+
 }
